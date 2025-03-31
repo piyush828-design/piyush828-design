@@ -1,15 +1,4 @@
-## Hi there 👋
+## Hi,I'm @piyush828-design 👋
 
-<!--
-**piyush828-design/piyush828-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on various web-devs project.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: piyushpawar171@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 I’m looking to collaborate on various web-devs project.
+📫 How to reach me: piyushpawar171@gmail.com
